@@ -7,6 +7,9 @@
  <p align="left">
  🔥 Interested in Data Science, Machine Learning, and Artificial Intelligence
 </p>
+<p align="left">
+ 📫 How to reach me <a href="mailto:bryantjandra@ristek.cs.ui.ac.id"><strong>bryantjandra@ristek.cs.ui.ac.id</strong></a>
+</p>
 <br>
 <h3 align="left">Languages and Tools that I've used and learned/learning:</h3>
 <p align="left">

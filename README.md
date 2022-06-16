@@ -7,16 +7,9 @@
  <p align="left">
  🔥 Interested in Data Science, Machine Learning, and Artificial Intelligence
 </p>
-<br> 
-<p align="left">
-<a href="https://github.com/bryan273">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bryan273&show_icons=true&theme=tokyonight&locale=en" alt="bry273"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryan273&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="bryan273"/>
-</a>
-</p>
 
-<h3 align="center">Languages and Tools that I've used and learned/learning:</h3>
-<p align="center">
+<h3 align="left">Languages and Tools that I've used and learned/learning:</h3>
+<p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img
         src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=blue"
@@ -59,6 +52,7 @@
         height="30"
       />
     </a>
+    <br>
     <a href="https://keras.io/" target="_blank" rel="noreferrer">
       <img
         src="https://img.shields.io/badge/Keras-black.svg?style=for-the-badge&logo=Keras&logoColor=%23D00000"
@@ -95,7 +89,15 @@
       />
     </a>
   </p>
-  
+
+<p align="left">
+<a href="https://github.com/bryan273">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bryan273&show_icons=true&theme=tokyonight&locale=en" alt="bryan273" /></p>
+<br />
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryan273&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="bryan273" /></p>
+</a>
+</p>
+
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 ## Find me and let's connect 

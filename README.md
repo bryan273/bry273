@@ -7,11 +7,11 @@
  <p align="left">
  🔥 Interested in Data Science, Machine Learning, and Artificial Intelligence
 </p>
- 
+<br> 
 <p align="left">
-<a href="https://github.com/farelarden">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bryan273&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bryan273&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/bryan273">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bryan273&show_icons=true&theme=tokyonight&locale=en" alt="bry273"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryan273&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="bryan273"/>
 </a>
 </p>
 
@@ -19,77 +19,77 @@
 <p align="center">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img
-        src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
+        src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=blue"
         alt="python"
         height="30"
       />
     </a>
     <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
       <img
-        src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"
+        src="https://img.shields.io/badge/java-black.svg?style=for-the-badge&logo=java&logoColor=%23ED8B00"
         alt="java"
         height="30"
       />
     </a>
     <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
       <img
-        src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"
+        src="https://img.shields.io/badge/jupyter-black.svg?style=for-the-badge&logo=jupyter&logoColor=%23FA0F00"
         alt="jupyter-notebook"
         height="30"
       />
     </a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
       <img
-        src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"
+        src="https://img.shields.io/badge/pandas-black.svg?style=for-the-badge&logo=pandas&logoColor=015BE5"
         alt="pandas"
         height="30"
       />
     </a>
     <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
       <img
-        src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"
+        src="https://img.shields.io/badge/scikit--learn-black.svg?style=for-the-badge&logo=scikit-learn&logoColor=%23F7931E"
         alt="scikit-learn"
         height="30"
       />
     </a>
     <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
       <img
-        src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"
+        src="https://img.shields.io/badge/TensorFlow-black.svg?style=for-the-badge&logo=TensorFlow&logoColor=%23FF6F00"
         alt="tensorflow"
         height="30"
       />
     </a>
     <a href="https://keras.io/" target="_blank" rel="noreferrer">
       <img
-        src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"
+        src="https://img.shields.io/badge/Keras-black.svg?style=for-the-badge&logo=Keras&logoColor=%23D00000"
         alt="keras"
         height="30"
       />
     </a>
     <a href="https://numpy.org/" target="_blank" rel="noreferrer">
       <img
-        src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"
+        src="https://img.shields.io/badge/numpy-black.svg?style=for-the-badge&logo=numpy&logoColor=00B0B9"
         alt="numpy"
         height="30"
       />
     </a>
     <a href="https://opencv.org/" target="_blank" rel="noreferrer">
       <img
-        src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"
+        src="https://img.shields.io/badge/opencv-black.svg?style=for-the-badge&logo=opencv&logoColor=%23DD0031"
         alt="opencv"
         height="30"
       />
     </a>
     <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
       <img
-        src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"
+        src="https://img.shields.io/badge/sqlite-black.svg?style=for-the-badge&logo=sqlite&logoColor=0AC18E"
         alt="sql"
         height="30"
       />
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img
-        src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"
+        src="https://img.shields.io/badge/git-black.svg?style=for-the-badge&logo=git&logoColor=%23F05033"
         alt="git"
         height="30"
       />

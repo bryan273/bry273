@@ -7,7 +7,7 @@
  <p align="left">
  🔥 Interested in Data Science, Machine Learning, and Artificial Intelligence
 </p>
-
+<br>
 <h3 align="left">Languages and Tools that I've used and learned/learning:</h3>
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -45,6 +45,7 @@
         height="30"
       />
     </a>
+    <br>
     <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
       <img
         src="https://img.shields.io/badge/TensorFlow-black.svg?style=for-the-badge&logo=TensorFlow&logoColor=%23FF6F00"
@@ -52,7 +53,6 @@
         height="30"
       />
     </a>
-    <br>
     <a href="https://keras.io/" target="_blank" rel="noreferrer">
       <img
         src="https://img.shields.io/badge/Keras-black.svg?style=for-the-badge&logo=Keras&logoColor=%23D00000"

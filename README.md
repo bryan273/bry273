@@ -95,9 +95,9 @@
 
 <p align="left">
 <a href="https://github.com/bryan273">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bryan273&show_icons=true&theme=tokyonight&locale=en" alt="bryan273" /></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bryan273&show_icons=true&theme=tokyonight" alt="bryan273" /></p>
 <br />
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryan273&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="bryan273" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryan273&show_icons=true&theme=tokyonight&layout=compact" alt="bryan273" /></p>
 </a>
 </p>
 

@@ -5,7 +5,7 @@
  🔭 Computer Science student at Universitas Indonesia (2nd semester)
 </p> 
  <p align="left">
- 🔥 Interested in Data Science, Machine Learning, and Artificial Intelligence
+ 🔥 Interested in Data Analyst, Data Science, and Artificial Intelligence
 </p>
 <p align="left">
  📫 How to reach me <a href="mailto:bryantjandra@ristek.cs.ui.ac.id"><strong>bryantjandra@ristek.cs.ui.ac.id</strong></a>

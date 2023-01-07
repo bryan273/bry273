@@ -2,7 +2,7 @@
 # Hi there, welcome to Bryan's github repository! 👋 
 
 <p align="left">
- 🔭 Computer Science student at Universitas Indonesia (2nd semester)
+ 🔭 Computer Science student at Universitas Indonesia (4th semester)
 </p> 
  <p align="left">
  🔥 Interested in Data Analyst, Data Science, and Artificial Intelligence

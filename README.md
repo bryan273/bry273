@@ -107,7 +107,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/bryan-tjandra/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
-  <a href="https://www.instagram.com/bryantjandra020703/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> 
+  <a href="https://www.instagram.com/bryantjandra27/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> 
   <a href="mailto:bryantjandra@ristek.cs.ui.ac.id" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a> 
   <a href="https://www.kaggle.com/bryantjandra" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" /></a>  
 </p>
